@@ -193,11 +193,7 @@ This project demonstrates practical implementation of React concepts, REST API i
 
 ---
 
-## 👩‍💻 Developed By
 
-**Vyshnavi Gottipati**
-
-B.Tech – Computer Science and Engineering
 
 SASI Institute of Technology & Engineering
 
